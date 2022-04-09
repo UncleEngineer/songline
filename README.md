@@ -3,7 +3,7 @@
 วิธีใช้งานทำตามนี้เลย เปิด *cmd* แล้ว
 
 * ไลบรารี่ใช้ส่งไลน์
-* ดาวโหลดตารางสติกเกอร์: <http://cons-robotics.com/LINEAPI/sticker.pdf>
+* ดาวโหลดตารางสติกเกอร์: <https://uncle-engineer.com/api/sticker.pdf>
 * ออก token ในเว็บ: <https://notify-bot.line.me/my/>
   * Log In ด้วยรหัสไลน์ -->
   * เลื่อนลงไปล่างสุดแล้วกด -->
